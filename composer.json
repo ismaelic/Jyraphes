@@ -1,0 +1,20 @@
+{
+	"name": "etenil/jyraphe",
+	"description": "A file upload software in PHP",
+    "keywords": ["filesharing"],
+    "homepage": "http://gitorious.org/jyraphe",
+    "type": "website",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Guillaume 'Etenil' Pasquet",
+            "email": "boss@etenil.net",
+            "homepage": "http://blog.etenil.net"
+        }
+    ],
+	"require": {
+		"php": ">=5.4.0",
+        "etenil/atlatl": ">=1.3",
+        "mustache/mustache": ">=2.5"
+	}
+}
